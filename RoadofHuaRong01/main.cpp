@@ -4,6 +4,7 @@
 #include <QApplication>
 #include "roadOfHuarong.h"
 
+// test the Git
 int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
